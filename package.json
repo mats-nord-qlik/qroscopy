@@ -1,0 +1,22 @@
+{
+  "name": "qroscopy",
+  "version": "1.0.0",
+  "description": "Copy the qros-defintions.js file to the qmc qlient as qmc-qros-defintions.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://rd-git.qliktech.com/~mnd/sense-client.git"
+  },
+  "keywords": [
+    "qmc",
+    "qros",
+    "defintion",
+    "utility"
+  ],
+  "author": "Mats Nord <mats.nord@qlik.com>",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
